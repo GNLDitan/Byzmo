@@ -1,1 +1,2 @@
-# Byzmo
+# byzmo
+byzmo e-commerce project
